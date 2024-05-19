@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>HACKED</title>
-</head>
-<body>
-<p>Website is vulnerable to SubDomain Takeover!</p>
-
-</body>
-</html>
